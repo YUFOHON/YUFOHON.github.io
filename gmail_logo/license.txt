@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gmail Logo
+* source:	https://sketchfab.com/3d-models/gmail-logo-7dcdcddfb40c4e4aab830292f8f6d964
+* author:	Channel Hải (https://sketchfab.com/huyhaichannel20062012)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gmail Logo" (https://sketchfab.com/3d-models/gmail-logo-7dcdcddfb40c4e4aab830292f8f6d964) by Channel Hải (https://sketchfab.com/huyhaichannel20062012) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
